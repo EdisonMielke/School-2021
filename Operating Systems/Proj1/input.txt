@@ -1,0 +1,6 @@
+ls banana ; ls;
+ls; pwd ls;
+mkdir banana; cd banana; cd ..;
+cp input.txt; cp input.txt input.txt2;
+mv input.txt2 input2.txt;
+cat input2.txt; rm input2.txt;
